@@ -1,0 +1,28 @@
+body{
+  background-color: powderblue;
+  text-align: center;
+}
+.main{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+.pro{
+  line-height:1em;
+  font-size:2.5em;
+}
+.top{
+  padding-top: 100px;
+  position: relative;
+}
+.topc{
+   position: absolute;
+   left:1050px;
+   top:100px;
+}
+.bottomc{
+  position:absolute;
+  left:350px;
+}
+.pic{
+  padding-top:100px;
+}
